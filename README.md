@@ -1,4 +1,4 @@
-# Node-js 7 
+# Node-js 8 
 ### default.conf
 ```nginx configuration
     server {
